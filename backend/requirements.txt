@@ -1,0 +1,27 @@
+# Web framework
+fastapi>=0.110,<1.0
+uvicorn[standard]>=0.30,<1.0
+python-multipart>=0.0.9
+pydantic>=2.7,<3.0
+email-validator>=2.0
+
+# DB + config
+SQLAlchemy>=2.0,<3.0
+python-dotenv>=1.0
+
+# PDF parsing
+pypdf>=4.0
+
+# Embeddings + vector index (CPU only)
+sentence-transformers>=3.0
+faiss-cpu>=1.9
+numpy>=1.26,<3.0
+
+# LLM providers (only one key is needed at runtime)
+groq>=0.9
+openai>=1.50
+google-generativeai>=0.7
+
+# Auth
+bcrypt>=4.0
+PyJWT>=2.8
