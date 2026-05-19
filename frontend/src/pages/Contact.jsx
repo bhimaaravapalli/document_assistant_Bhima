@@ -151,7 +151,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <div className="text-[10px] font-black text-zinc-500 uppercase tracking-[0.2em] mb-1">Email Us</div>
-                  <div className="text-lg font-bold text-wrap break-all">majeti.srujana99@gmail.com</div>
+                  <div className="text-lg font-bold text-wrap break-all">bhimaaravapalli@gmail.com</div>
                 </div>
               </div>
 
@@ -161,7 +161,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <div className="text-[10px] font-black text-zinc-500 uppercase tracking-[0.2em] mb-1">Call Us</div>
-                  <div className="text-lg font-bold">8374477999</div>
+                  <div className="text-lg font-bold">7742535080</div>
                 </div>
               </div>
 
@@ -171,7 +171,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <div className="text-[10px] font-black text-zinc-500 uppercase tracking-[0.2em] mb-1">Headquarters</div>
-                  <div className="text-lg font-bold">Rajamahendravaram, AP, India</div>
+                  <div className="text-lg font-bold">Worcester, MA, USA</div>
                 </div>
               </div>
             </div>
