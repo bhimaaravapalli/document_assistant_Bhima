@@ -1,4 +1,4 @@
-# DocAssist — Simple RAG Document Assistant
+# DocAssist — AI-Powered Document Assistant
 
 A tiny, zero-config Retrieval-Augmented Generation app.
 **Upload a PDF → ask questions → get answers with the source page cited.**
